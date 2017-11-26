@@ -21,7 +21,7 @@ The graph currently detects on the following 12 classes:
 11) Wolfsangel
 12) Brokensun
 
-Follow this project or @emilymaxima on twitter for new updates (hopefully will be semi-regular)
+Follow this project or [@emilymaxima](https://twitter.com/emilymaxima) on twitter for new updates (hopefully will be semi-regular)
 
 SPECIAL THANKS:
-@werjortitsko
+[@werjortitsko](https://twitter.com/WerjorTitsko)
